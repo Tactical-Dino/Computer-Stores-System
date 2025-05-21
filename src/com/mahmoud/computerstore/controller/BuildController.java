@@ -13,7 +13,6 @@ public class BuildController {
 
     public boolean addComponent(Component c) {
         // e.g., CompatibilityChecker.isCpuCompatibleWithMotherboard(...)
-        // ...
     }
 
     public void finalizeBuild() {
